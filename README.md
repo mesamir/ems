@@ -1,4 +1,4 @@
 # ems
 event management system.
 <br>
-Author - Samir Adhikari
+Author - Samir Adhikari ( ems)
